@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Esercitazioni\NomeProgetto\obj\Debug\net9.0\NomeProgetto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Esercitazioni\NomeProgetto\obj\Debug\net9.0\NomeProgetto.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Esercitazioni\NomeProgetto\obj\Debug\net9.0\NomeProgetto.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Esercitazioni\NomeProgetto\obj\Debug\net9.0\NomeProgetto.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Esercitazioni\NomeProgetto\bin\Debug\net9.0\NomeProgetto.exe
+C:\Users\Admin\Desktop\Esercitazioni\NomeProgetto\bin\Debug\net9.0\NomeProgetto.deps.json
+C:\Users\Admin\Desktop\Esercitazioni\NomeProgetto\bin\Debug\net9.0\NomeProgetto.runtimeconfig.json
+C:\Users\Admin\Desktop\Esercitazioni\NomeProgetto\bin\Debug\net9.0\NomeProgetto.dll
+C:\Users\Admin\Desktop\Esercitazioni\NomeProgetto\bin\Debug\net9.0\NomeProgetto.pdb
+C:\Users\Admin\Desktop\Esercitazioni\NomeProgetto\obj\Debug\net9.0\NomeProgetto.dll
+C:\Users\Admin\Desktop\Esercitazioni\NomeProgetto\obj\Debug\net9.0\refint\NomeProgetto.dll
+C:\Users\Admin\Desktop\Esercitazioni\NomeProgetto\obj\Debug\net9.0\NomeProgetto.pdb
+C:\Users\Admin\Desktop\Esercitazioni\NomeProgetto\obj\Debug\net9.0\NomeProgetto.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Esercitazioni\NomeProgetto\obj\Debug\net9.0\ref\NomeProgetto.dll

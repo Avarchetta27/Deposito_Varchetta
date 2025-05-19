@@ -2,7 +2,7 @@
 
 class Operazioni
 {
-    static void Main(string[] args)
+    /*static void Main(string[] args)
     {
         int n1 = 0, n2 = 0;
 
@@ -49,7 +49,7 @@ class Operazioni
     }
 
 
-
+*/
 
 
     public static int Somma(int a,int b)
