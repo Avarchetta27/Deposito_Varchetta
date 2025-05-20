@@ -12,7 +12,7 @@ public class Studente
         this.mediavoti = mediavoti;
     }
 
-
+/*
     public static void Main()
     {
         try
@@ -56,5 +56,5 @@ public class Studente
         {
             Console.WriteLine("Programma terminato");
         }
-    }
+    } */
 }
