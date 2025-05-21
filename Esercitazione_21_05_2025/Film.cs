@@ -22,7 +22,7 @@ public class Prova{
             return ($"{titolo} {regista} {anno} {genere}");
         }
     }
-
+/*
     public static void Main(string[] args)
     {
     List<Film> videoteca = new List<Film>();
@@ -66,7 +66,7 @@ public class Prova{
         }
 
     }
-
+*/
 }
 
 
