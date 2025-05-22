@@ -46,7 +46,7 @@ using System;
         {
             get { return postiprenotati; }
         }
-
+/*
         public static void Main()
         {
             Console.WriteLine("Inserisci una destinazione");
@@ -55,7 +55,7 @@ using System;
 
             while (true)
         {
-            Console.WriteLine("Menu \n1 Prenota\n2 Annulla \n3esci");
+            Console.WriteLine("Menu \n1 Prenota\n2 Annulla \n3 Esci");
             string inserimento = Console.ReadLine();
             int i = 0;
             switch (inserimento)
@@ -64,14 +64,14 @@ using System;
                     Console.WriteLine("Inserisci il numero di posti da prenotare");
                     i = int.Parse(Console.ReadLine());
                     prenota.PrenotaPosti(i);
-                    Console.WriteLine("Posti disponibili =" + prenota.PostiDisponibili + "\nPosti prenotati" + prenota.PostiPrenotati);
+                    Console.WriteLine("Posti disponibili = " + prenota.PostiDisponibili + "\nPosti prenotati = 3" + prenota.PostiPrenotati);
                     break;
 
                 case "2":
                     Console.WriteLine("Inserisci il numero di posti da annullare ");
                     i = int.Parse(Console.ReadLine());
                     prenota.AnnullaPrenotazione(i);
-                    Console.WriteLine("Posti disponibili =" + prenota.PostiDisponibili + "\nPosti prenotati" + prenota.PostiPrenotati);
+                    Console.WriteLine("Posti disponibili = " + prenota.PostiDisponibili + "\nPosti prenotati = " + prenota.PostiPrenotati);
                     break;
 
                 case "3":
@@ -87,5 +87,5 @@ using System;
         }
         }
     
-
+*/
 }
