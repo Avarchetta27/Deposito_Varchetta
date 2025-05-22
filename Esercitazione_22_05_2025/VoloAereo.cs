@@ -53,7 +53,7 @@ public class VoloAereo
         }
 
 
-
+/*
         public static void Main()
     {
         Console.WriteLine("Inserisci un volo");
@@ -94,6 +94,6 @@ public class VoloAereo
                 break;
         }
     }
-    
+    */
 
 }
