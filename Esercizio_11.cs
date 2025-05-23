@@ -1,5 +1,6 @@
 using System;
 
+//Ho avuto problemi con il pc che si surriscaldava, mi sono dovuto far correggere delle sintassi perchè avevo problemi nello scrivere il codice
 public class Program_6
 {
     public class Veicolo
