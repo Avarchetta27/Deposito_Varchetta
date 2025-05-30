@@ -1,5 +1,5 @@
 ﻿using System;
-
+// mi sono fermato al singleton poichè ho dovuto fare altre attività in parallelo per il work.
 public interface Ipizza
 {
     void Descrizione();
